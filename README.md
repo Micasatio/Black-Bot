@@ -1,8 +1,8 @@
 # 🔶 Black Bot 🔶
 
 ### `—◉ 😈 DUDAS SOBRE EL BOT?, CONTACTANOS 😈`
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/creador.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 💟 GRUPOS DEL BOT 💟`
 
